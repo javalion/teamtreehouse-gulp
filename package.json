@@ -1,0 +1,22 @@
+{
+  "name": "gulp-team-treehouse",
+  "version": "1.0.0",
+  "description": "Team Treehouse project that uses gulp in the development workflow.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/javalion/teamtreehouse-gulp.git"
+  },
+  "author": "Terry McKee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/javalion/teamtreehouse-gulp/issues"
+  },
+  "homepage": "https://github.com/javalion/teamtreehouse-gulp#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
